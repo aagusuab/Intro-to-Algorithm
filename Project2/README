@@ -1,0 +1,9 @@
+Youn Jae Kim
+ykim121
+Programming Assignment 2
+
+The Pa2 assignment contains 6 files: Makefile, List.h, List.c, ListClient.c, Lex.c, and the README.
+I tried to finish Lex.c in time, and I tried to study the method professor taught us in class and implement it.
+In the end, I was able to move my design onto the computer, but when I tried to compile it along with the List.c,
+It was not successful. I tried really hard, getting 3 hours of sleep every night, going to labs to fix errors,
+especially the segmentation faults along with data leaks, but I couldn't finish the Lex.c to compile.
